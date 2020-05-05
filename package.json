@@ -1,9 +1,12 @@
 {
-    "name": "pixi-typescript-template",
+    "name": "stakelogic-test-task",
     "version": "1.0.0",
-    "author": "André Lacerda",
+    "author": "Denys Sevastianyk",
     "dependencies": {
-        "pixi.js": "^4.8.5"
+        "gsap": "^3.2.6",
+        "pixi-particles": "^4.2.1",
+        "pixi.js": "^4.8.5",
+        "screenfull": "^5.0.2"
     },
     "devDependencies": {
         "@types/pixi.js": "^4.8.6",
