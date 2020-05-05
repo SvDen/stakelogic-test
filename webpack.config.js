@@ -21,7 +21,7 @@ module.exports = {
         ]
     },
     devServer: {
-        host: '192.168.0.106',
+        host: 'localhost',
         port: 8080
     },
     performance: { hints: false }
