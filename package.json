@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "author": "Denys Sevastianyk",
     "dependencies": {
-        "gsap": "^3.2.6",
+        "gsap": "^3.6.0",
         "pixi-particles": "^4.2.1",
         "pixi.js": "^4.8.5",
         "screenfull": "^5.0.2"
